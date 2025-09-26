@@ -8,14 +8,10 @@ Projects on course.
 - data preprocessing
 - data analysis
 - static data analys
-- project 1
 - intro machine learning
 - supervised learning
 - machine learning on business
-- project 2
 - linear algebra
-
-
 
 <!--
 **magomedovr89/magomedovr89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
